@@ -1,0 +1,11 @@
+C:\Users\preet\Source\Repos\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\preet\Source\Repos\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\preet\Source\Repos\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\preet\Source\Repos\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\preet\Source\Repos\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\preet\Source\Repos\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\preet\Source\Repos\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\preet\Source\Repos\HospitalManagementsystem\obj\Debug\HospitalManagementSystem.exe.config
+C:\Users\preet\Source\Repos\HospitalManagementsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\preet\Source\Repos\HospitalManagementsystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\preet\Source\Repos\HospitalManagementsystem\obj\Debug\Hospital.D08A6E9A.Up2Date
